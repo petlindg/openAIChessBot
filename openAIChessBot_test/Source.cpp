@@ -1,8 +1,8 @@
 #include <iostream>
 
-int main() {
-	std::cout << "Hello World! dum dum";
-
+int main()
+{
+	std::cout << "bietch";
 
 	int a;
 	std::cin >> a;
