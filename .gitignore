@@ -50,6 +50,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# .jsons
+*.json
+
 # Mono auto generated files
 mono_crash.*
 
@@ -414,7 +417,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode\*
+.vscode\\*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
